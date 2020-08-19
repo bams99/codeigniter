@@ -1,3 +1,3 @@
 # codeigniter
 belajar CI
-menjadi master programer
+menjadi spesialis programer
